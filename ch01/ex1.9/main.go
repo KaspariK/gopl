@@ -1,3 +1,5 @@
+// ex1.9 fetches page content from URLs passed in through the command line and
+// displays it in Stdout along with status code
 package main
 
 import (
